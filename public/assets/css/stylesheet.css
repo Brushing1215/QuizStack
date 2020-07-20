@@ -6,6 +6,6 @@ color: green;
     color: gray;
 }
 .ghlink:hover{
-    color: green;
+    color: rgb(44, 8, 247);
     text-decoration: none;
 }
